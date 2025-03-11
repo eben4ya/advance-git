@@ -19,10 +19,6 @@
    ```
    Jika berhasil, akan muncul pesan “You've successfully authenticated...”.
 
-_(Catatan: Jika Anda memberi **passphrase**, Git akan memintanya sekali saat pertama kali per sesi, atau bisa menggunakan **ssh-agent** agar cukup memasukkan passphrase satu kali.)_
-
-> tambahkan cara ssh agent di windows
-
 #### 1.2 Setup SSH di Ubuntu
 
 1. **Buka Terminal**, buat kunci SSH:
@@ -61,8 +57,6 @@ _(Catatan: Jika Anda memberi **passphrase**, Git akan memintanya sekali saat per
      ssh-add ~/.ssh/id_ed25519
      ```
      Sehingga setiap terminal baru akan menjalankan ssh-agent dan menambahkan kunci privat otomatis.
-
-_(Catatan: Anda juga dapat menggunakan GNOME Keyring atau sejenisnya pada Ubuntu sehingga passphrase tersimpan lebih permanen.)_
 
 **HTTPS vs SSH?**
 
