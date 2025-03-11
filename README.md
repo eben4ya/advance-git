@@ -221,6 +221,8 @@ git commit -m "fix: resolve issue with input encoding"
 
 ## BAGIAN 3: Demo GitHub Copilot & Shortcut di VS Code
 
+![Meme](https://i.imgflip.com/7ea2zo.jpg)
+
 ### 1. GitHub Copilot
 
 - **GitHub Copilot** adalah asisten pemrograman berbasis AI yang membantu Anda menulis kode lebih efisien dengan memberikan saran kode saat Anda mengetik.
